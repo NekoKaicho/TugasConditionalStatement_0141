@@ -32,5 +32,7 @@ int main() {
 
     cout << "--- Selamat Datang Mahasiswa Kelas C 2025 ---" << endl;
 
+    inputData(berat, tinggi);
+
     
     
