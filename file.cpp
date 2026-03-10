@@ -34,5 +34,8 @@ int main() {
 
     inputData(berat, tinggi);
 
+    float bmi = hitungBMI(berat, tinggi);
+    string status = kondisiBMI(bmi);
+
     
     
