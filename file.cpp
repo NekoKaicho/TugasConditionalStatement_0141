@@ -30,5 +30,7 @@ string kondisiBMI(float bmi) {
 int main() {
     float berat, tinggi;
 
+    cout << "--- Selamat Datang Mahasiswa Kelas C 2025 ---" << endl;
+
     
     
